@@ -45,6 +45,7 @@ export default class App extends Component {
             </div>
           </div>
         </form>
+        <hr />
         <Password />
       </div>
     );
